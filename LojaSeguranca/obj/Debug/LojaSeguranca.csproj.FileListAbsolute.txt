@@ -1,0 +1,15 @@
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.FormInicial.resources
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.Properties.Resources.resources
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.csproj.GenerateResource.cache
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\bin\Debug\LojaSeguranca.exe.config
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\bin\Debug\LojaSeguranca.exe
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\bin\Debug\LojaSeguranca.pdb
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.exe
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.pdb
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.FormLogin.resources
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.FormMenu.resources
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.FormProdutos.resources
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.FormAjuda.resources
+D:\Visual Studio 2022\PRODUTO\LojaSeguranca\LojaSeguranca\obj\Debug\LojaSeguranca.FormClientes.resources
